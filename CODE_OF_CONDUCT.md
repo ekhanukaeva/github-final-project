@@ -1,0 +1,1 @@
+the "Contributor Covenant" template
